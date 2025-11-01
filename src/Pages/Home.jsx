@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <section>
       <Helmet>
-        <title>Hero App - Home</title>
+        <title>App Store</title>
       </Helmet>
       {/* Hero */}
       <section className="w-full flex flex-col items-center text-center bg-[#f5f5f5] ">
