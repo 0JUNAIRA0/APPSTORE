@@ -15,17 +15,17 @@ const Footer = () => {
           <div className="">
             <h2 className="font-bold pb-3">Social Icon</h2>
             <div className="flex gap-2">
-              <Link to={"https://x.com/muaz-ibn-kamal"} target="_blank">
+              <Link to={"https://x.com/junairaislam"} target="_blank">
                 <FaXTwitter></FaXTwitter>
               </Link>
               <Link
-                to={"https://www.linkedin.com/in/muazibnkamal18/"}
+                to={"https://www.linkedin.com/in/junairaislam/"}
                 target="_blank"
               >
                 <FaLinkedin></FaLinkedin>
               </Link>
               <Link
-                to={"https://www.facebook.com/muazibnkamal.alif.18"}
+                to={"https://www.facebook.com/profile.php?id=100092282807508"}
                 target="_blank"
               >
                 <FaFacebook></FaFacebook>
