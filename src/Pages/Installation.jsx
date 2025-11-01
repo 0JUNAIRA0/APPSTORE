@@ -63,7 +63,7 @@ const Installation = () => {
   return (
     <div className="bg-gray-50 min-h-screen py-8 px-4 sm:px-6 lg:px-12">
       <Helmet>
-        <title>Hero App - Installed Apps</title>
+        <title>App Store - Installed Apps</title>
       </Helmet>
       <div className="container mx-auto">
         {/* Top Section */}
