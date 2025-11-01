@@ -94,7 +94,7 @@ const Navbar = () => {
         <Button
           onClick={() =>
             window.open(
-              "https://github.com/Muaz-Ibn-Kamal",
+              "https://github.com/0JUNAIRA0",
               "_blank"
             )
           }
